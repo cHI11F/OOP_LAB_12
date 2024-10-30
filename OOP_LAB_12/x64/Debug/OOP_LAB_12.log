@@ -1,0 +1,22 @@
+﻿  Equation.cpp
+D:\Лабораторні ООП\OOP_LAB_12\OOP_LAB_12\Equation.h(24,74): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Equation.cpp')
+  
+D:\Лабораторні ООП\OOP_LAB_12\OOP_LAB_12\Equation.h(27,70): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Equation.cpp')
+  
+D:\Лабораторні ООП\OOP_LAB_12\OOP_LAB_12\Equation.cpp(12,17): warning C4297: 'Equation::calculateRoot2': function assumed not to throw an exception but does
+  D:\Лабораторні ООП\OOP_LAB_12\OOP_LAB_12\Equation.cpp(12,17):
+  __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+  
+D:\Лабораторні ООП\OOP_LAB_12\OOP_LAB_12\Equation.cpp(17,80): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Лабораторні ООП\OOP_LAB_12\OOP_LAB_12\Equation.cpp(23,76): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  OOP_LAB_12.cpp
+D:\Лабораторні ООП\OOP_LAB_12\OOP_LAB_12\Equation.h(24,74): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'OOP_LAB_12.cpp')
+  
+D:\Лабораторні ООП\OOP_LAB_12\OOP_LAB_12\Equation.h(27,70): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'OOP_LAB_12.cpp')
+  
+  Generating Code...
+  OOP_LAB_12.vcxproj -> D:\Лабораторні ООП\OOP_LAB_12\x64\Debug\OOP_LAB_12.exe
